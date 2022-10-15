@@ -1,4 +1,4 @@
-# Rescue
+# Rescue 🐾
 
 ## Welcome to Rescue!
 
@@ -10,7 +10,6 @@ Indonesia is home to approximately 250 million stray cats, most resides in Jakar
 Rescue is a interactive simulation mini game that gives information and experience to care for young kittens in 3 life stages from 0 to 10 weeks old. In this game, you’ll raise Abu, a stray kitten whom is inspired by my real life rescue kitten with the same name.
 
 Learning and watching her grow up was one of the most rewarding experience to me, and I hope to share that feeling with you through this app project, and to apply the knowledge so you’ll be prepared in a time you might need to rescue a feline friend in the future.
-
 ## How to play
 
 -	Build and run iOS Simulator for iPhone 12 or above (preferably iPhone12)
@@ -31,4 +30,4 @@ Thanks for reading and playing!
 
 
 
-Rescue is a interactive simulation mini game that gives information and experience to care for young kittens in 3 life stages from 0 to 10 weeks old. 
+Rescue is a interactive simulation mini game that gives information and experience to care for young kittens in 3 life stages from 0 to 10 weeks old. This project is a submission for the Swift Student Challenge 2022. 
