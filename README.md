@@ -12,7 +12,8 @@ Rescue is a interactive simulation mini game that gives information and experien
 Learning and watching her grow up was one of the most rewarding experience to me, and I hope to share that feeling with you through this app project, and to apply the knowledge so you’ll be prepared in a time you might need to rescue a feline friend in the future.
 ## How to play
 
--	Build and run iOS Simulator for iPhone 12 or above (preferably iPhone12)
+-	Open .swiftptm in Xcode
+- Build and run iOS Simulator for iPhone 12 or above.
 -	Click “Start”
 -	Read the information and instructions on the screen.
 -	Click “Let’s Go” to start playing.
@@ -24,8 +25,11 @@ For better experience, run the app project on iPhone 12 or above simulator (pref
 
 Thanks for reading and playing!
 
-![Rescue](https://user-images.githubusercontent.com/81611116/195971406-6c945d19-f98b-4135-9326-450b0cb97034.png)
+## Build With
 
+Xcode 13.4.1 (MacOS 12.3.1)
+
+![Rescue](https://user-images.githubusercontent.com/81611116/195971406-6c945d19-f98b-4135-9326-450b0cb97034.png)
 
 
 
